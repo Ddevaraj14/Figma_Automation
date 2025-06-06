@@ -17,7 +17,7 @@ This project enables **live preview of Figma designs** in your browser, with aut
 ## Folder Structure
 
 ```
-UI_Automation/
+Figma_Automation/
 ├── data/
 │   └── figma.json                # Latest Figma JSON (auto-fetched)
 ├── public/
